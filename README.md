@@ -6,7 +6,9 @@ MiniGTA
 * 添加LineTrace实现射击效果
 * 实现双武器弹药消耗，以及Reload功能
 * 有/无武器时的Crouch功能
-* 有一个不知道怎么复现的bug，**以后再说**。。
+* 修复换弹动画最后一点可以开枪的bug
+* 添加射击时枪口MuzzleFlash效果
+    * 有一个不知道怎么复现的bug，**以后再说**。。
 
 2020.5.29 
 * 完成靠近武器（Pickups）的高亮显示（PostProcessVolume）
