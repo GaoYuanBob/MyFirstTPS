@@ -1,6 +1,16 @@
 # MyFirstTPS
 MiniGTA
 
+当前设置：
+1. 下蹲或者手持武器状态，不能 junmp
+2. SwapWeapon，Equip/UnEquipWeapon，Sprint 时不能 Fire
+
+
+2020.6.2
+* 完成武器射击Projectile
+* 修复SwapWeapon，Qquip/UnEquip Weapon时开枪的bug
+
+
 2020.6.1
 * 修复双武器切换Bug
 * 添加LineTrace实现射击效果
