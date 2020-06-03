@@ -5,10 +5,16 @@ MiniGTA
 1. 下蹲或者手持武器状态，不能 junmp
 2. SwapWeapon，Equip/UnEquipWeapon，Sprint 时不能 Fire
 
+2020.6.3
+* 完成NPC射击主角，爆头
+* 
 
 2020.6.2
 * 完成武器射击Projectile
 * 修复SwapWeapon，Qquip/UnEquip Weapon时开枪的bug
+* 完成头部Capsule，实现爆头
+* 完成NPC被击中掉血
+* 完成NPC 的 Patroling，以及被击中后 跟随玩家
 
 
 2020.6.1
