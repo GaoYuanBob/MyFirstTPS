@@ -7,7 +7,10 @@ MiniGTA
 
 2020.6.3
 * 完成NPC射击主角，爆头
-* 
+* 添加NPC Spawn Sensing
+* 完成鼠标右键 ZoomIn、ZoomOut
+* 完成 NPC AimOffSet 设置
+
 
 2020.6.2
 * 完成武器射击Projectile
