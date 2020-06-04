@@ -1,17 +1,36 @@
 # MyFirstTPS
-MiniGTA
+## MiniGTA
 
-当前设置：
+### 操作设置
+* PC
+    * WASD移动
+    * 左`Shift`加速
+    * `F`进行物品拾取
+    * 鼠标滚轮装备/切换武器；`E`装备/卸下武器
+    * 鼠标右键瞄准；左键射击
+    * `Space`跳跃
+* Phone：
+
+### 当前设置
 1. 下蹲或者手持武器状态，不能 junmp
 2. SwapWeapon，Equip/UnEquipWeapon，Sprint 时不能 Fire
 
+### 参考资料
+1. UE4官方文档：
+    * [Scalability Reference](https://docs.unrealengine.com/en-US/Engine/Performance/Scalability/ScalabilityReference/index.html)
+1. [User Interface Development：1 - 18](https://www.youtube.com/playlist?list=PLL0cLF8gjBprIHm0yo-Vj9oBwi2-gAIEd)
+2. [Create Game From Scratch UE4 TPS Game Series：1 - 24](https://www.youtube.com/playlist?list=PLM6ZWbxOgIqsCb3dUJRdYoUbyi_zFCOjs)
+
+
+### Version History
 2020.6.3
     * 完成NPC射击主角，爆头
     * 添加NPC Spawn Sensing
     * 完成鼠标右键 ZoomIn、ZoomOut
-    * 完成 NPC AimOffSet 设置
-    * 完成 NPC ScanEnemy，视野内没有Player的时候，StopFire并且寻找 Player
-
+    * NPC AimOffSet 设置
+    * NPC ScanEnemy，视野内没有Player的时候，StopFire并且寻找 Player
+    * NPC Sense Player，根据其他NPC来找player
+    * NPC 死亡效果
 
 2020.6.2
     * 完成武器射击Projectile
@@ -19,7 +38,6 @@ MiniGTA
     * 完成头部Capsule，实现爆头
     * 完成NPC被击中掉血
         * 完成NPC 的 Patroling，以及被击中后 跟随玩家
-
 
 2020.6.1
     * 修复双武器切换Bug
