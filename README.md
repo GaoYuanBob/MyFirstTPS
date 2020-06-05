@@ -23,9 +23,16 @@
 
 
 ### Version History
+2020.6.5
+  * Sprint功能修改，射击/切换武器/装备卸下武器/下蹲 会自动 UnSprint
+  * 修改UI显示，在 sprint 状态下，不显示界面中心瞄准的图标
+
+2020.6.4
+  * UI界面开发
+
 2020.6.3
-    * 完成NPC射击主角，爆头
-    * 添加NPC Spawn Sensing
+  * 完成NPC射击主角，爆头
+  * 添加NPC Spawn Sensing
     * 完成鼠标右键 ZoomIn、ZoomOut
     * NPC AimOffSet 设置
     * NPC ScanEnemy，视野内没有Player的时候，StopFire并且寻找 Player
