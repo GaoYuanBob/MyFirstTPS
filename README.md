@@ -24,6 +24,8 @@
   * 完成角色视角切换，修复屏幕双手指触屏导致右手手指失效bug，完成[文档](https://blog.csdn.net/Bob__yuan/article/details/106614474)
   * 完成游戏说明文档
   * EquipWeapon、SwapWeapon、Jump 时如果是瞄准状态，则取消瞄准状态
+  * 将地上可拾取的武器和身上武器分离成两个类，删除身上武器的 Widget、SphereCollision、高光 等拾取属性；地上武器添加自动旋转，以及高光功能
+  
   
 * 2020.6.7
   * 完成 UI 开发
