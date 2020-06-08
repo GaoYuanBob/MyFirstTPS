@@ -25,6 +25,7 @@
   * 完成游戏说明文档
   * EquipWeapon、SwapWeapon、Jump 时如果是瞄准状态，则取消瞄准状态
   * 将地上可拾取的武器和身上武器分离成两个类，删除身上武器的 Widget、SphereCollision、高光 等拾取属性；地上武器添加自动旋转，以及高光功能
+  * 修复 “身上只有 Rifle 时，Swap 收枪，Equip 就拿不到抢了，会去拿 Sniper” 的bug
   
   
 * 2020.6.7
