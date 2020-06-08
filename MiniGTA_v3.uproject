@@ -8,5 +8,12 @@
 			"Name": "XCodeSourceCodeAccess",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
 	]
 }
