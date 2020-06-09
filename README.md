@@ -20,6 +20,9 @@
 
 
 ### Version History
+* 2020.6.9
+  * 增加UI界面，增加两种NPC的重生机制
+
 * 2020.6.8
   * 完成角色视角切换，修复屏幕双手指触屏导致右手手指失效bug，完成[文档](https://blog.csdn.net/Bob__yuan/article/details/106614474)
   * 完成游戏说明文档
