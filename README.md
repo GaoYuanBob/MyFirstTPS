@@ -20,6 +20,8 @@
 
 
 ### Version History
+* 2020.6.10
+  * 增加Brian死亡掉落cash，以及cash捡起的ui和加钱
 * 2020.6.9
   * 增加UI界面，增加两种NPC的重生机制
 
